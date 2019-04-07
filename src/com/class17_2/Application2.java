@@ -1,13 +1,11 @@
 package com.class17_2;
 
+import com.class17_2.ScannerMethod;
+
 public class Application2 {
-	
 
-	    public static void main(String[] args) {
-	        ScannerMethod scnMthd = new ScannerMethod();
-	        System.out.println(scnMthd.sum(125, 150));
-
-	    }
+	public static void main(String[] args) {
+	}
 
 	    void example() {
 

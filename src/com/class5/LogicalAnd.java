@@ -13,11 +13,13 @@ public class LogicalAnd {
 		//f age is older that 20 but less than 64-->adult
 		//if age is older or equato 64-->senior
 		
-		Scanner myScanner;
 		int age;
+		Scanner myScanner;
+		Scanner scan = new Scanner (System.in);
+		System.out.println("Pleaser enter your age");
+		age= scan.nextInt();
 		
-		
-		
+			
 		if (age>=1 && age<3) {
 			System.out.println("you are a baby");
 		}else if (age>= 3 && age<5) {

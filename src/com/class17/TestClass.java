@@ -9,7 +9,7 @@ public class TestClass {
 		
 		String str= new String ("Hello");
 		
-		str.isEmpty(); //built-in method that cones with String class
+		str.isEmpty(); //built-in method that comes with String class
 		
 //////////////		
 		
