@@ -1,4 +1,4 @@
-package pack1;
+package com.pack1;
 
 public class X {
  int i=1221;

@@ -1,4 +1,4 @@
-package HomeWorks;
+package com.HomeWorks;
 
 public class whileLoops8_5 {
 	 public static void main(String[] args) {

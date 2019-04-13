@@ -1,4 +1,4 @@
-package pack1;
+package com.pack1;
 
 public class Application {
 	public static void main(String[] args) {
@@ -20,9 +20,7 @@ public class Application {
 		System.out.println(person2.eyeColour);
 		System.out.println(person2.heigth);
 		System.out.println(person2.weight);
-		System.out.println(person2.gender);
-		
-		
+		System.out.println(person2.gender);	
 		
 	}
 }

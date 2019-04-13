@@ -1,4 +1,4 @@
-package HomeWorks;
+package com.HomeWorks;
 
 public class homeWork4_1 {
 	  public static void main(String[] args) {

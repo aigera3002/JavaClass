@@ -1,4 +1,4 @@
-package pack1;
+package com.pack1;
 
 public class Calculator {
 //create claslled calculator, 

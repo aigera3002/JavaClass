@@ -1,4 +1,4 @@
-package pack1;
+package com.pack1;
 
 public class Human {
 	static String eyeColour="Brown";  //instant variables
@@ -16,5 +16,9 @@ public class Human {
 
 void coding() {
 	System.out.println("Syntax students can code "+programmingLanguage);
+}
+
+public static void main(String[] args) {
+	System.out.println("Ho");
 }
 }

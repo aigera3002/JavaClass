@@ -1,4 +1,4 @@
-package HomeWorks;
+package com.HomeWorks;
 
 public class k {
 

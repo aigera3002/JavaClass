@@ -1,4 +1,4 @@
-package HomeWorks;
+package com.HomeWorks;
 
 public class class9Task4 {
 	public static void main(String [] args)  {
